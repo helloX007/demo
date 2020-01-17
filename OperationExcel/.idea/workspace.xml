@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91767976-50fb-47ed-9089-2eece9ec4488" name="Default Changelist" comment="" />
+    <list default="true" id="91767976-50fb-47ed-9089-2eece9ec4488" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -21,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WVaARdZfgjzCP52f7SoJjb8gqq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/demo/excel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -84,6 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579237071882</updated>
       <workItem from="1579237076564" duration="673000" />
+      <workItem from="1579238671381" duration="48000" />
     </task>
     <servers />
   </component>
@@ -107,9 +115,9 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state width="1458" height="256" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1579237755256" />
-    <state x="252" y="112" key="SettingsEditor" timestamp="1579237665605">
+    <state x="252" y="112" key="SettingsEditor" timestamp="1579238718435">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="252" y="112" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1579237665605" />
+    <state x="252" y="112" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1579238718435" />
   </component>
 </project>
