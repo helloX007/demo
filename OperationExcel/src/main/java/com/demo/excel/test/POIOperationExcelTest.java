@@ -1,9 +1,14 @@
-package com.demo.excel;
+package com.demo.excel.test;
+
+import com.demo.excel.ExcelPoiReaderUtils;
+import org.junit.jupiter.api.Test;
 
 import java.util.List;
 
 public class POIOperationExcelTest {
-    public static void main(String[] args) {
+
+    @Test
+    public void readExcel() {
 //        String xlsFilePath = "D:\\test\\apitest.xls";
         String xlsFilePath = "D:\\test\\apitest.xlsx";
         String[] columns = {"id","name","address"};
