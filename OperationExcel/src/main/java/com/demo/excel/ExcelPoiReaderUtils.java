@@ -15,13 +15,14 @@ import java.util.Map;
 
 public class ExcelPoiReaderUtils {
     /**
-     * 读取excel 第1张sheet （xls和xlsx）
+     * 读取excel 第sheetNum张sheet （xls和xlsx） 的数据
      *
      * @param filePath	excel路径
+     * @param sheetNum  excel文件中的第几张表
      * @param columns	列名（表头）
      * @return
      */
-    public static List<List<Object>> readExcel(String filePath, String columns[]) {
+    public static List<List<Object>> readExcel(String filePath, int sheetNum,String columns[]) {
         Sheet sheet = null;
         Row row = null;
         Row rowHeader = null;
@@ -46,7 +47,7 @@ public class ExcelPoiReaderUtils {
                 // 用来存放表中数据
                 excelData = new ArrayList<List<Object>>();
                 // 获取第一个sheet
-                sheet = wb.getSheetAt(0);
+                sheet = wb.getSheetAt(sheetNum); // 也可以根据sheet名字获取对应的表个数据 wb.getSheet("sheetname")
                 // 获取最大行数
                 int rownum = sheet.getPhysicalNumberOfRows();
                 // 获取第一行

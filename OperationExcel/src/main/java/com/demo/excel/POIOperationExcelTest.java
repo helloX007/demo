@@ -7,7 +7,7 @@ public class POIOperationExcelTest {
 //        String xlsFilePath = "D:\\test\\apitest.xls";
         String xlsFilePath = "D:\\test\\apitest.xlsx";
         String[] columns = {"id","name","address"};
-        List<List<Object>> excelData = ExcelPoiReaderUtils.readExcel(xlsFilePath, columns);
+        List<List<Object>> excelData = ExcelPoiReaderUtils.readExcel(xlsFilePath, 0, columns);
         excelData.forEach(row -> System.out.println(row));
     }
 }
