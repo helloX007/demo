@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91767976-50fb-47ed-9089-2eece9ec4488" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OperationExcel.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/excel/ExcelPoiReaderUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/freemarker/FreemarkerUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/freemarker/result/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/freemarker/templates/javatemplate.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/excel/test/POIOperationExcelTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/freemarker/test/FreemarkerUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,6 +180,8 @@
       <workItem from="1579395722231" duration="2325000" />
       <workItem from="1579400434726" duration="373000" />
       <workItem from="1579401051919" duration="103000" />
+      <workItem from="1579401193928" duration="2352000" />
+      <workItem from="1579445985383" duration="1028000" />
     </task>
     <servers />
   </component>
@@ -221,22 +209,22 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="532" y="237" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1579401146169" />
-    <state width="1458" height="256" key="GridCell.Tab.0.bottom" timestamp="1579401264764">
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom" timestamp="1579428236037">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="256" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1579401264764" />
-    <state width="1458" height="256" key="GridCell.Tab.0.center" timestamp="1579401264764">
+    <state width="1458" height="256" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1579428236037" />
+    <state width="1458" height="256" key="GridCell.Tab.0.center" timestamp="1579428236037">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="256" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1579401264764" />
-    <state width="1458" height="256" key="GridCell.Tab.0.left" timestamp="1579401264764">
+    <state width="1458" height="256" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1579428236037" />
+    <state width="1458" height="256" key="GridCell.Tab.0.left" timestamp="1579428236037">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="256" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1579401264764" />
-    <state width="1458" height="256" key="GridCell.Tab.0.right" timestamp="1579401264764">
+    <state width="1458" height="256" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1579428236037" />
+    <state width="1458" height="256" key="GridCell.Tab.0.right" timestamp="1579428236037">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="256" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1579401264764" />
+    <state width="1458" height="256" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1579428236037" />
     <state width="1458" height="316" key="GridCell.Tab.1.bottom" timestamp="1579363907212">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
@@ -261,10 +249,10 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="252" y="112" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1579400568162" />
-    <state x="116" y="176" key="new project wizard" timestamp="1579401148304">
+    <state x="116" y="176" key="new project wizard" timestamp="1579446392576">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="116" y="176" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1579401148304" />
+    <state x="116" y="176" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1579446392576" />
     <state x="416" y="209" width="672" height="678" key="search.everywhere.popup" timestamp="1579399093740">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
