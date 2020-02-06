@@ -1,5 +1,8 @@
 package com.demo.springboot_1.listener;
 
+import com.demo.springboot_1.service.HelloService;
+import org.springframework.beans.factory.annotation.Autowired;
+
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 import javax.servlet.annotation.WebListener;
@@ -9,8 +12,13 @@ import javax.servlet.annotation.WebListener;
  */
 @WebListener
 public class InitListener implements ServletContextListener {
+
+    @Autowired
+    HelloService helloService;
+
     @Override
     public void contextInitialized(ServletContextEvent sce) {
         System.out.println("现在 InitListener 初始化了.");
+        helloService.greet();
     }
 }
